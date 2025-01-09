@@ -9,3 +9,10 @@
 - What are dependencies
 - What is the use of "-g" while npm install
 - Difference between caret and tilde
+
+
+
+- Initialize git
+- .gitignore
+- Create a remote repo on github
+- Push all the code to remote origin
